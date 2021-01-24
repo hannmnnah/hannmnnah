@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Insight있는 데이터 분석가 장한아입니다.
+
 <!--
 **hannmnnah/hannmnnah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
