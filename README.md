@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhannmnnah&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 저는
-✔️ 소셜미디어 앱 서비스와 페이,멤버십같은 거래 공동체 서비스 산업에 관심이 많습니다. 사람들이 '시간과 돈이라는 자원을 어떻게 소비하는지' 분석하고 그들에게 __필요한__ 서비스를 만들고 싶습니다.  
+✔️ 소셜미디어 앱 서비스를 사용할 때 나오는 행동 데이터에 관심이 많습니다. 인구통계학적 데이터와 더불어 실질적 행동 데이터를 분석하여 마음 속 변수를 예측하고 싶습니다. 그리고 그들에게 __필요한__ 서비스를 만들고 싶습니다.  
 
 ## SKILL
 - 모바일 앱 서비스 운영 경험으로 앱 비즈니스에 대한 기본적인 이해
